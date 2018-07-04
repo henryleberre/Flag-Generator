@@ -22,7 +22,7 @@ class Particule {
 }
 
 let particules = [];
-let flag = "France";
+let flag = "US";
 let fr = 0;
 
 function setup() {
